@@ -14,8 +14,7 @@ Hovedmålet med denne nettsiden er å:
 ## Teknisk informasjon
 
 - **Teknologier brukt:**
-  - [Node.js](https://nodejs.org/) for server-side utvikling.
-  - [React](https://reactjs.org/) for frontend.
+  - [JS](https://www.javascript.com) for server-side utvikling.
   - [CSS](https://www.w3schools.com/css/) for styling av nettsiden.
   - [HTML](https://www.w3schools.com/html/) for struktur av innholdet.
 
